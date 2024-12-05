@@ -42,8 +42,8 @@ header {
 }
 
 header img {
-    width: 100%;  /* Adjust based on desired size */
-    max-width: 500px;  /* Maximum size */
+    width: 80%;
+    max-width: 500px;
     height: auto;
 }
 
